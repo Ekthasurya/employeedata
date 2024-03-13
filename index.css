@@ -1,0 +1,39 @@
+/* Fill CSS here */
+h1{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0468aa;
+    text-decoration: underline;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}
+form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 40px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+#submit{
+    color: aliceblue;
+    background-color:#0468aa;
+    border-radius: 10px;
+    text-decoration: none;
+}
+/* table,tr,th{
+    /* border: 1px solid;
+    border-collapse: collapse;
+    padding: 15px; */
+    /* color: black */
+    /* font-size: 15px; */
+
+
+th{ 
+
+    background-color:#0468aa;
+}
